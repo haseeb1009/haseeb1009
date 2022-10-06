@@ -2,7 +2,7 @@
 - 👀 I’m interested in frontend
 - 🌱 I’m currently working as a Software Engineer(frontend) 
 - 💞️ I’m looking to collaborate on React/Js based projects
-- 📫 Reach out to me at haseeb.940@gmail.com or on LinkedIn: https://www.linkedin.com/in/haseeb1009/
+- 📫 Reach out to me at haseeb.940@gmail.com or [LinkedIn](https://www.linkedin.com/in/haseeb1009/):
 
 <!---
 haseeb1009/haseeb1009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
