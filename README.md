@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @haseeb1009
 - 👀 I’m interested in frontend
-- 🌱 I’m currently working as a Software Engineer(frontend) 
+- 🌱 Currently working as a Software Engineer(frontend) 
 - 💞️ I’m looking to collaborate on React/Js based projects
 - 📫 Reach out to me at haseeb.940@gmail.com or [LinkedIn](https://www.linkedin.com/in/haseeb1009/)
 
